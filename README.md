@@ -1,4 +1,4 @@
-# Trading Bot Demo
+# Trading Bot for Polygon Network
 
 ## Technology Stack & Tools
 
