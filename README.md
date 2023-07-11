@@ -22,8 +22,8 @@
 Before running any scripts, you'll want to create a .env file with the following values (see .env.example):
 
 - **ALCHEMY_API_KEY=""**
-- **ARB_FOR="0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"** (By default we are using WETH)
-- **ARB_AGAINST="0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"** (By default we are using SHIB)
+- **ARB_FOR=""** (By default we are using WETH)
+- **ARB_AGAINST=""** (By default we are using SHIB)
 - **PRIVATE_KEY=""** (Private key of the account to recieve profit/execute arbitrage contract)
 - **PRICE_DIFFERENCE=0.50** (Difference in price between Uniswap & Sushiswap, default is 0.50%)
 - **UNITS=0** (Only used for price reporting)
